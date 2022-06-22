@@ -23,19 +23,19 @@
 		// Example: newuser.jabalisites.com
 
 		if (!isset($user_domain)){
-			$user_domain = getVar('domain');
+			$user_domain = getVar('https//sevicecloud.com');
 		}
 
 		// Username of the new hosting account
 
 		if (!isset($user_name)){
-			$user_name = getVar('user');
+			$user_name = getVar('dennisray314');
 		}
 
 		// Password for the new hosting account
 
 		if (!isset($user_pass)){
-			$user_pass = getVar('password');
+			$user_pass = getVar('Olaniyisunday@080');
 		}
 
 		// New hosting account Package
@@ -47,7 +47,7 @@
 		// Contact email
 
 		if (!isset($user_email)){
-			$user_email = getVar('email');
+			$user_email = getVar('dennisclapper314@gmail.com');
 		}
 
 		// if parameters passed then create account
