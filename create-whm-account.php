@@ -29,7 +29,7 @@
 		// Username of the new hosting account
 
 		if (!isset($user_name)){
-			$user_name = getVar('dennisray314');
+			$user_name = getVar('Sunshine');
 		}
 
 		// Password for the new hosting account
